@@ -1,6 +1,6 @@
 # SwiftQueue Traffic Simulation and Prediction Pipeline
 
-This repository contains the codebase for a project focused on simulating, analyzing, and predicting network behavior in a SwiftQueue-enabled dumbbell topology using NS-3 and deep learning. It was developed as part of the COD892 course at IIT Delhi, under the supervision of Prof. Vireshwar Kumar and Prof. Tarun Mangla.
+This repository contains the codebase for a project focused on simulating, analyzing, and predicting network behavior in a SwiftQueue-enabled dumbbell topology using NS-3 and deep learning. It was developed as part of the COD893 course at IIT Delhi, under the supervision of Prof. Vireshwar Kumar and Prof. Tarun Mangla.
 
 The project presents a complete pipeline for analyzing congestion control behavior across different traffic classes — including DCTCP (L4S), TCP Cubic, and cross-traffic flows — competing over a shared bottleneck link.
 
